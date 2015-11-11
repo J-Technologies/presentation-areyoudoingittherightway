@@ -1,0 +1,36 @@
+<section>
+    <h2>Introducing: Apache Spark</h2>
+    <img src="img/spark_system.png">
+</section>
+
+<section><h2>The skills: Of Apache Spark</h2>
+    <ul>
+        <li>Spark MLlib</li>
+
+        <li>Spark Streaming</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Spark MLlib</h2>
+    <ul>
+        <li>“High-Level API’s that help users create and tune practical machine learning pipelines.”
+        </li>
+        <li>Very concise: 9-29 lines of code to train a naive Random Forest model with a full machine
+            learning pipeline.
+        </li>
+    </ul>
+</section>
+
+<section>
+    <h2>Spark Streaming</h2>
+    <ul>
+        <li>“Extension of the core Spark API that enables scalable, high-throughput, fault-tolerant
+            stream
+            processing of
+            live data streams.”
+        </li>
+        <li>Takes 4 lines of plumbing code to start your streaming job.</li>
+    </ul>
+    </h2>
+</section>
