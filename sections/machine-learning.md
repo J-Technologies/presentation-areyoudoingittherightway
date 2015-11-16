@@ -16,12 +16,12 @@
 
 <section>
     <h2>The skills required: Training a model</h2>
-    <img src="img/training_model.png" height="300">
+    <img src="img/machine-learning-pipeline-1.png" height="300">
 </section>
 
 <section>
     <h2>Getting the skills: Train Test loop</h2>
-    <img src="img/training_section.jpg">
+    <img src="img/machine-learning-pipeline-2.png">
 
     <p><ul>
         <li>Feature transformations.</li>
